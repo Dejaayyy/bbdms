@@ -1,0 +1,49 @@
+
+body {
+    align-items: center;
+    justify-content: center;
+    background-color: #dbdbdb;
+    font-family: 'Inter', sans-serif;
+    scroll-behavior: smooth;
+    overflow-y: auto;
+}
+
+/* .container {
+    width: 90%;
+    background: #EBEBEB;
+    margin: 250px auto;
+    padding: 30px;
+    border-radius: 16px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+} */
+
+.container {
+    width: 90%;
+    background: #EBEBEB;
+    position: relative;
+    margin: 50px auto;
+    padding: 30px;
+    border-radius: 16px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.form-control {
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+.form-check {
+    padding-left: 30px;
+}
+
+.row {
+    margin-bottom: 10px;
+}
+
+h4 {
+    margin-top: 10px;
+}
